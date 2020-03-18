@@ -1,0 +1,36 @@
+C:\Users\mahmoud.elhady\Source\Repos\VezeetaAutomationClass\VezeetaTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mahmoud.elhady\Source\Repos\VezeetaAutomationClass\VezeetaTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mahmoud.elhady\Source\Repos\VezeetaAutomationClass\VezeetaTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mahmoud.elhady\Source\Repos\VezeetaAutomationClass\VezeetaTests\bin\Debug\VezeetaTests.dll
+C:\Users\mahmoud.elhady\Source\Repos\VezeetaAutomationClass\VezeetaTests\bin\Debug\VezeetaTests.pdb
+C:\Users\mahmoud.elhady\Source\Repos\VezeetaAutomationClass\VezeetaTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\mahmoud.elhady\Source\Repos\VezeetaAutomationClass\VezeetaTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\mahmoud.elhady\Source\Repos\VezeetaAutomationClass\VezeetaTests\bin\Debug\VezeetaAutomationClass.dll
+C:\Users\mahmoud.elhady\Source\Repos\VezeetaAutomationClass\VezeetaTests\bin\Debug\WebDriver.dll
+C:\Users\mahmoud.elhady\Source\Repos\VezeetaAutomationClass\VezeetaTests\bin\Debug\VezeetaAutomationClass.pdb
+C:\Users\mahmoud.elhady\Source\Repos\VezeetaAutomationClass\VezeetaTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\mahmoud.elhady\Source\Repos\VezeetaAutomationClass\VezeetaTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\mahmoud.elhady\Source\Repos\VezeetaAutomationClass\VezeetaTests\bin\Debug\WebDriver.xml
+C:\Users\mahmoud.elhady\Source\Repos\VezeetaAutomationClass\VezeetaTests\obj\Debug\VezeetaTests.csprojAssemblyReference.cache
+C:\Users\mahmoud.elhady\Source\Repos\VezeetaAutomationClass\VezeetaTests\obj\Debug\VezeetaTests.csproj.CoreCompileInputs.cache
+C:\Users\mahmoud.elhady\Source\Repos\VezeetaAutomationClass\VezeetaTests\obj\Debug\VezeetaTests.csproj.CopyComplete
+C:\Users\mahmoud.elhady\Source\Repos\VezeetaAutomationClass\VezeetaTests\obj\Debug\VezeetaTests.dll
+C:\Users\mahmoud.elhady\Source\Repos\VezeetaAutomationClass\VezeetaTests\obj\Debug\VezeetaTests.pdb
+C:\Users\medo\Desktop\vezzeeta test\VezeetaAutomationClass\VezeetaTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\medo\Desktop\vezzeeta test\VezeetaAutomationClass\VezeetaTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\medo\Desktop\vezzeeta test\VezeetaAutomationClass\VezeetaTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\medo\Desktop\vezzeeta test\VezeetaAutomationClass\VezeetaTests\bin\Debug\VezeetaTests.dll
+C:\Users\medo\Desktop\vezzeeta test\VezeetaAutomationClass\VezeetaTests\bin\Debug\VezeetaTests.pdb
+C:\Users\medo\Desktop\vezzeeta test\VezeetaAutomationClass\VezeetaTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\medo\Desktop\vezzeeta test\VezeetaAutomationClass\VezeetaTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\medo\Desktop\vezzeeta test\VezeetaAutomationClass\VezeetaTests\bin\Debug\VezeetaAutomationClass.dll
+C:\Users\medo\Desktop\vezzeeta test\VezeetaAutomationClass\VezeetaTests\bin\Debug\WebDriver.dll
+C:\Users\medo\Desktop\vezzeeta test\VezeetaAutomationClass\VezeetaTests\bin\Debug\VezeetaAutomationClass.pdb
+C:\Users\medo\Desktop\vezzeeta test\VezeetaAutomationClass\VezeetaTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\medo\Desktop\vezzeeta test\VezeetaAutomationClass\VezeetaTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\medo\Desktop\vezzeeta test\VezeetaAutomationClass\VezeetaTests\bin\Debug\WebDriver.xml
+C:\Users\medo\Desktop\vezzeeta test\VezeetaAutomationClass\VezeetaTests\obj\Debug\VezeetaTests.csprojAssemblyReference.cache
+C:\Users\medo\Desktop\vezzeeta test\VezeetaAutomationClass\VezeetaTests\obj\Debug\VezeetaTests.csproj.CoreCompileInputs.cache
+C:\Users\medo\Desktop\vezzeeta test\VezeetaAutomationClass\VezeetaTests\obj\Debug\VezeetaTests.csproj.CopyComplete
+C:\Users\medo\Desktop\vezzeeta test\VezeetaAutomationClass\VezeetaTests\obj\Debug\VezeetaTests.dll
+C:\Users\medo\Desktop\vezzeeta test\VezeetaAutomationClass\VezeetaTests\obj\Debug\VezeetaTests.pdb
